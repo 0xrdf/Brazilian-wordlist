@@ -1,2 +1,2 @@
-# Brazilian-wordlist-
-This repo.. it's just for Brazil passwords.. founded on leaks.. 
+# Brazilian-wordlist
+This repo.. it's just for Brazilian passwords.. founded on leaks.. 
